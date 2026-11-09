@@ -1,0 +1,5 @@
+/* O visual vem do Bootstrap. Aqui só defino o tamanho dos slides do carrossel. */
+.slide-conteudo {
+  min-height: 250px;
+  padding: 70px 60px;
+}
